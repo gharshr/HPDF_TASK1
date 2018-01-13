@@ -1,0 +1,24 @@
+.upper{
+	background-color: blue;
+	height:50px;
+}
+
+.toplevel{
+	margin-top: 80px;
+	max-width: 25%;
+	background-color:white;
+	position: relative;
+	background-image: -webkit-linear-gradient(bottom, white 55%, blue 45%);
+}
+
+.a {
+	padding: 24px 24px
+}
+.lower{
+	
+}
+.special{
+	
+	
+	
+}
